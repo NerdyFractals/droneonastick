@@ -19,12 +19,16 @@ Sensors: Camera
 Software Frameworks: Python, Micropython
 
 # Requirements:
+
 Ensure you have the following installed before setting up the project:
 Windows or linux:
 droneonastick/setup.sh
 PIP3 - package managemnet for each system.
 Python3 - python
 Micropython - smaller python
+
+> [!IMPORTANT]
+> Install these before class if possible
 
 # STEPS
 ## Basics & Calibration (Ground Control)
